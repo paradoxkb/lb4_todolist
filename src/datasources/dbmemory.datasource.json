@@ -1,0 +1,6 @@
+{
+  "name": "dbmemory",
+  "connector": "memory",
+  "localStorage": "",
+  "file": ""
+}

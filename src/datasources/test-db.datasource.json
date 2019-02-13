@@ -1,0 +1,10 @@
+{
+  "name": "test_db",
+  "connector": "postgresql",
+  "url": "postgres://root:qwerty@172.17.0.2/local_test",
+  "host": "172.17.0.2",
+  "port": 5432,
+  "user": "root",
+  "password": "qwerty",
+  "database": "local_test"
+}
